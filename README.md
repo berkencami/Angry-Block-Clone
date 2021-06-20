@@ -2,8 +2,7 @@
 Clone game with Unity
 
 
-# Gameplay Video
-[Youtube](https://youtu.be/d7E0e8erQJA)
+
 
 # ScreenShots
 ![ScreenShot](https://github.com/BerkEncami/Angry-Block-Clone/blob/main/ScreenShots/1.png)
