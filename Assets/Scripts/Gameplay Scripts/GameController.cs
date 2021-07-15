@@ -173,4 +173,10 @@ public class GameController : MonoBehaviour
 
         }
     }
+
+
+    private void OnApplicationQuit()
+    {
+        PlayerPrefs.DeleteAll();
+    }
 }
