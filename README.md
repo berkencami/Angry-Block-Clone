@@ -1,6 +1,7 @@
-# Angry-Block-Clone
-Clone game 
+# Angry Block
 
+#
+https://berkencami.itch.io/angry-blocks
 
 
 
